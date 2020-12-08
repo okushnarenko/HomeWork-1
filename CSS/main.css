@@ -1,0 +1,13 @@
+#head{
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+}
